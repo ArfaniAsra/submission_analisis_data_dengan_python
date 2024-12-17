@@ -6,7 +6,7 @@ by:
 - arfani152@gmail.com
 
 ## Petunjuk Menggunakan Proyek
-- Clone repository ini: ```git clone ```
+- Clone repository ini: ```git clone https://github.com/ArfaniAsra/submission_analisis_data_dengan_python.git```
 - Untuk menjalankan file `.ipynb` maupun file `.py`, pastikan dependensi yang dibutuhkan sudah tersedia (lihat `requirements.txt` untuk mengetahui depensensi yang dibutuhkan).
 
 ## Petunjuk Melihat Hasil Analisis Data
